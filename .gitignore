@@ -1,0 +1,36 @@
+# Maven
+    /target/
+    pom.xml.tag
+    pom.xml.releaseBackup
+    pom.xml.versionsBackup
+    pom.xml.next
+    release.properties
+
+    # IntelliJ IDEA
+    /.idea/
+    /out/
+    /*.iml
+
+    # OS files
+    .DS_Store
+    Thumbs.db
+
+    # Logs and temp
+    *.log
+    *.tmp
+
+    # Java compiled classes
+    *.class
+
+    # Other archives/binaries
+    *.jar
+    *.war
+    *.zip
+    *.tar.gz
+
+    # Игнорировать специфичные для IDE файлы и папки
+     .idea/
+    *.iml
+
+    # Игнорировать выходные файлы Maven
+     target/
